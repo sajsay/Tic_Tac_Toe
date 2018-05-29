@@ -1,0 +1,14 @@
+#Game_1{
+  font-size: 60px;
+}
+#gameBoard{
+  width: 400px;
+  height: 400px;
+  border: 1px solid black;
+}
+.square{border: 1px solid black;
+}
+.square:hover{
+  cursor:pointer;
+  background-color: Grey
+}
